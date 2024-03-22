@@ -91,3 +91,14 @@ C:/Users/daniel/Desktop/trabajo de la biblioteca/Biblioteca/obj/Debug/net8.0/ref
 /home/riwip5-008/Desktop/trabajo de la biblioteca/Biblioteca/obj/Debug/net8.0/Biblioteca.pdb
 /home/riwip5-008/Desktop/trabajo de la biblioteca/Biblioteca/obj/Debug/net8.0/Biblioteca.genruntimeconfig.cache
 /home/riwip5-008/Desktop/trabajo de la biblioteca/Biblioteca/obj/Debug/net8.0/ref/Biblioteca.dll
+C:\Users\duvian lopez\Desktop\Biblioteca\Bibioteca\Biblioteca\obj\Debug\net8.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duvian lopez\Desktop\Biblioteca\Bibioteca\Biblioteca\obj\Debug\net8.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\duvian lopez\Desktop\Biblioteca\Bibioteca\Biblioteca\obj\Debug\net8.0\Biblioteca.AssemblyInfo.cs
+C:\Users\duvian lopez\Desktop\Biblioteca\Bibioteca\Biblioteca\obj\Debug\net8.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\duvian lopez\Desktop\Biblioteca\Bibioteca\Biblioteca\obj\Debug\net8.0\Biblioteca.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\duvian lopez\Desktop\Biblioteca\Bibioteca\Biblioteca\obj\Debug\net8.0\Biblioteca.RazorAssemblyInfo.cache
+C:\Users\duvian lopez\Desktop\Biblioteca\Bibioteca\Biblioteca\obj\Debug\net8.0\Biblioteca.RazorAssemblyInfo.cs
+C:\Users\duvian lopez\Desktop\Biblioteca\Bibioteca\Biblioteca\obj\Debug\net8.0\Biblioteca.sourcelink.json
+C:\Users\duvian lopez\Desktop\Biblioteca\Bibioteca\Biblioteca\obj\Debug\net8.0\Biblioteca.dll
+C:\Users\duvian lopez\Desktop\Biblioteca\Bibioteca\Biblioteca\obj\Debug\net8.0\refint\Biblioteca.dll
+C:\Users\duvian lopez\Desktop\Biblioteca\Bibioteca\Biblioteca\obj\Debug\net8.0\Biblioteca.pdb
