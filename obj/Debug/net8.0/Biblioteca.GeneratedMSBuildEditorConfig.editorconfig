@@ -9,55 +9,55 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Biblioteca
 build_property.RootNamespace = Biblioteca
-build_property.ProjectDir = C:\Users\duvian lopez\Desktop\Biblioteca\Bibioteca\Biblioteca\
+build_property.ProjectDir = C:\Users\daniel\Desktop\trabajo de la biblioteca\Biblioteca\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\duvian lopez\Desktop\Biblioteca\Bibioteca\Biblioteca
+build_property.MSBuildProjectDirectory = C:\Users\daniel\Desktop\trabajo de la biblioteca\Biblioteca
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/duvian lopez/Desktop/Biblioteca/Bibioteca/Biblioteca/Views/DashBoard/Index.cshtml]
+[C:/Users/daniel/Desktop/trabajo de la biblioteca/Biblioteca/Views/DashBoard/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaEJvYXJkXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/duvian lopez/Desktop/Biblioteca/Bibioteca/Biblioteca/Views/Historial/index.cshtml]
+[C:/Users/daniel/Desktop/trabajo de la biblioteca/Biblioteca/Views/Historial/index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGlzdG9yaWFsXGluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/duvian lopez/Desktop/Biblioteca/Bibioteca/Biblioteca/Views/Landing/Index.cshtml]
+[C:/Users/daniel/Desktop/trabajo de la biblioteca/Biblioteca/Views/Landing/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFuZGluZ1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/duvian lopez/Desktop/Biblioteca/Bibioteca/Biblioteca/Views/Libros/Index.cshtml]
+[C:/Users/daniel/Desktop/trabajo de la biblioteca/Biblioteca/Views/Libros/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicm9zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/duvian lopez/Desktop/Biblioteca/Bibioteca/Biblioteca/Views/Prestamo/Index.cshtml]
+[C:/Users/daniel/Desktop/trabajo de la biblioteca/Biblioteca/Views/Prestamo/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlc3RhbW9cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/duvian lopez/Desktop/Biblioteca/Bibioteca/Biblioteca/Views/Shared/Error.cshtml]
+[C:/Users/daniel/Desktop/trabajo de la biblioteca/Biblioteca/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/duvian lopez/Desktop/Biblioteca/Bibioteca/Biblioteca/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/daniel/Desktop/trabajo de la biblioteca/Biblioteca/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/duvian lopez/Desktop/Biblioteca/Bibioteca/Biblioteca/Views/Usuarios/Index.cshtml]
+[C:/Users/daniel/Desktop/trabajo de la biblioteca/Biblioteca/Views/Usuarios/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/duvian lopez/Desktop/Biblioteca/Bibioteca/Biblioteca/Views/_ViewImports.cshtml]
+[C:/Users/daniel/Desktop/trabajo de la biblioteca/Biblioteca/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/duvian lopez/Desktop/Biblioteca/Bibioteca/Biblioteca/Views/_ViewStart.cshtml]
+[C:/Users/daniel/Desktop/trabajo de la biblioteca/Biblioteca/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/duvian lopez/Desktop/Biblioteca/Bibioteca/Biblioteca/Views/Shared/_Layout.cshtml]
+[C:/Users/daniel/Desktop/trabajo de la biblioteca/Biblioteca/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-bunr9m1pqn
