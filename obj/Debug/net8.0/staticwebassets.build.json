@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "hnaXhUarIN0tLKKrlgvXbeZqZDzBhqPmqr9X2AUrHoI=",
+  "Hash": "PuR0aU7FhqSyakDUB9IlVOa1x/qJBgGUoUoQiMTQhs0=",
   "Source": "Biblioteca",
   "BasePath": "_content/Biblioteca",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\duvian lopez\\Desktop\\Biblioteca\\Bibioteca\\Biblioteca\\wwwroot\\css\\Usuario.css",
+      "SourceId": "Biblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\duvian lopez\\Desktop\\Biblioteca\\Bibioteca\\Biblioteca\\wwwroot\\",
+      "BasePath": "_content/Biblioteca",
+      "RelativePath": "css/Usuario.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Usuario.css"
     },
     {
       "Identity": "C:\\Users\\duvian lopez\\Desktop\\Biblioteca\\Bibioteca\\Biblioteca\\wwwroot\\favicon.ico",
