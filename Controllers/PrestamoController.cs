@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 using Microsoft.AspNetCore.Mvc;
     namespace mvc.controllers{
     
@@ -13,4 +14,14 @@ using Microsoft.AspNetCore.Mvc;
                 return View();
             }
         }
+=======
+using Microsoft.AspNetCore.Mvc;
+    namespace mvc.controllers{
+    
+        public class PrestamoController : Controller{
+            public IActionResult Index(){
+                return View();
+            }
+        }
+>>>>>>> c757dc1c471fa86adf6f00b7b2d79ea3ad46b53f
     }
