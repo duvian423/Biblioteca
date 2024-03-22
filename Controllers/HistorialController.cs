@@ -5,5 +5,13 @@ using Microsoft.AspNetCore.Mvc;
             public IActionResult Index(){
                 return View();
             }
+
+            public IActionResult Create(){
+                return View();
+            }
+
+            public IActionResult Delete(){
+                return View();
+            }
         }
     }

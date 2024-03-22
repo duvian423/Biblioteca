@@ -5,8 +5,16 @@
       "PackagePath": "staticwebassets\\Biblioteca.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\duvian lopez\\Desktop\\Biblioteca\\Bibioteca\\Biblioteca\\wwwroot\\css\\Created.css",
+      "PackagePath": "staticwebassets\\css\\Created.css"
+    },
+    {
       "Id": "C:\\Users\\duvian lopez\\Desktop\\Biblioteca\\Bibioteca\\Biblioteca\\wwwroot\\css\\Dashboard.css",
       "PackagePath": "staticwebassets\\css\\Dashboard.css"
+    },
+    {
+      "Id": "C:\\Users\\duvian lopez\\Desktop\\Biblioteca\\Bibioteca\\Biblioteca\\wwwroot\\css\\Delete.css",
+      "PackagePath": "staticwebassets\\css\\Delete.css"
     },
     {
       "Id": "C:\\Users\\duvian lopez\\Desktop\\Biblioteca\\Bibioteca\\Biblioteca\\wwwroot\\css\\Usuario.css",

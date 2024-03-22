@@ -11,7 +11,8 @@
 </div>
 <div class="row">
     <div class="col-md-12">
-        <button class="btn btn-primary boton"><a class="a_boton" href="">Crear otro Usuario</a></button>
+        <a class="btn btn-primary boton a_boton" asp-controller="Usuarios" asp-action="Create">Crear otro Usuario</a>
+        
 
         <table class="table">
             <thead>
@@ -33,7 +34,7 @@
                 <td>duvian@example.com</td>
                 <td>
                     <button class="btn btn-danger">
-                        <a href="">Eliminar</a>
+                        <a asp-controller="Usuarios" asp-action="Delete">Eliminar</a>
                     </button>
                     <button class="btn btn-warning">
                         <a href="">Editar</a>
@@ -51,7 +52,7 @@
                 <td>duvian@example.com</td>
                 <td>
                     <button class="btn btn-danger">
-                        <a href="">Eliminar</a>
+                        <a asp-controller="Usuarios" asp-action="Delete">Eliminar</a>
                     </button>
                     <button class="btn btn-warning">
                         <a href="">Editar</a>
@@ -69,7 +70,7 @@
                 <td>duvian@example.com</td>
                 <td>
                     <button class="btn btn-danger">
-                        <a href="">Eliminar</a>
+                        <a asp-controller="Usuarios" asp-action="Delete">Eliminar</a>
                     </button>
                     <button class="btn btn-warning">
                         <a href="">Editar</a>

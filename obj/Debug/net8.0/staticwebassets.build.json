@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "PuR0aU7FhqSyakDUB9IlVOa1x/qJBgGUoUoQiMTQhs0=",
+  "Hash": "3fpJaZLixdaBK8MVZ8r3q/xO7aGzQDiD8Pk5w9ShLXc=",
   "Source": "Biblioteca",
   "BasePath": "_content/Biblioteca",
   "Mode": "Default",
@@ -55,6 +55,25 @@
       "OriginalItemSpec": "C:\\Users\\duvian lopez\\Desktop\\Biblioteca\\Bibioteca\\Biblioteca\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Biblioteca.bundle.scp.css"
     },
     {
+      "Identity": "C:\\Users\\duvian lopez\\Desktop\\Biblioteca\\Bibioteca\\Biblioteca\\wwwroot\\css\\Created.css",
+      "SourceId": "Biblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\duvian lopez\\Desktop\\Biblioteca\\Bibioteca\\Biblioteca\\wwwroot\\",
+      "BasePath": "_content/Biblioteca",
+      "RelativePath": "css/Created.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Created.css"
+    },
+    {
       "Identity": "C:\\Users\\duvian lopez\\Desktop\\Biblioteca\\Bibioteca\\Biblioteca\\wwwroot\\css\\Dashboard.css",
       "SourceId": "Biblioteca",
       "SourceType": "Discovered",
@@ -72,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\Dashboard.css"
+    },
+    {
+      "Identity": "C:\\Users\\duvian lopez\\Desktop\\Biblioteca\\Bibioteca\\Biblioteca\\wwwroot\\css\\Delete.css",
+      "SourceId": "Biblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\duvian lopez\\Desktop\\Biblioteca\\Bibioteca\\Biblioteca\\wwwroot\\",
+      "BasePath": "_content/Biblioteca",
+      "RelativePath": "css/Delete.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Delete.css"
     },
     {
       "Identity": "C:\\Users\\duvian lopez\\Desktop\\Biblioteca\\Bibioteca\\Biblioteca\\wwwroot\\css\\site.css",
